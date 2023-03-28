@@ -1,0 +1,130 @@
+{
+   "users": [
+      {
+         "id": 1,
+         "name": "John Smith",
+         "email": "john.smith@example.com",
+         "address": "123 Main St, Anytown, USA",
+         "phone": "555-1234"
+      },
+      {
+         "id": 2,
+         "name": "Jane Doe",
+         "email": "jane.doe@example.com",
+         "address": "456 High St, Anytown, USA",
+         "phone": "555-5678"
+      },
+      {
+         "id": 3,
+         "name": "Bob Johnson",
+         "email": "bob.johnson@example.com",
+         "address": "789 Elm St, Anytown, USA",
+         "phone": "555-9012"
+      },
+      {
+         "id": 4,
+         "name": "Alice Brown",
+         "email": "alice.brown@example.com",
+         "address": "321 Oak St, Anytown, USA",
+         "phone": "555-3456"
+      }
+   ],
+   "transactions": [
+     {
+        "transaction_id": 1,
+        "customer_id": 1,
+        "date": "2023-01-01",
+        "amount": 75.0
+     },
+     {
+        "transaction_id": 2,
+        "customer_id": 1,
+        "date": "2023-01-15",
+        "amount": 150.0
+     },
+     {
+        "transaction_id": 3,
+        "customer_id": 2,
+        "date": "2023-01-02",
+        "amount": 80.0
+     },
+     {
+        "transaction_id": 4,
+        "customer_id": 2,
+        "date": "2023-01-15",
+        "amount": 200.0
+     },
+     {
+        "transaction_id": 5,
+        "customer_id": 2,
+        "date": "2023-01-19",
+        "amount": 80.0
+     },
+     {
+         "transaction_id": 6,
+        "customer_id": 2,
+        "date": "2023-02-12",
+        "amount": 200.0
+     },
+     {
+      "transaction_id": 6,
+        "customer_id": 2,
+        "date": "2023-02-19",
+        "amount": 80.0
+     },
+     {
+        "customer_id": 2,
+        "transaction_id": 7,
+        "date": "2023-02-22",
+        "amount": 200.0
+     },
+     {
+        "transaction_id": 8,
+        "customer_id": 2,
+        "date": "2023-02-29",
+        "amount": 80.0
+     },
+     {
+        "transaction_id": 9,
+        "customer_id": 2,
+        "date": "2023-03-02",
+        "amount": 200.0
+     },
+     {
+        "transaction_id": 10,
+        "customer_id": 2,
+        "date": "2023-03-14",
+        "amount": 80.0
+     },
+     {
+        "transaction_id": 11,
+        "customer_id": 2,
+        "date": "2023-03-20",
+        "amount": 200.0
+     },
+     {
+        "transaction_id": 12,
+        "customer_id": 3,
+        "date": "2023-01-10",
+        "amount": 50.0
+     },
+     {
+        "transaction_id": 13,
+        "customer_id": 3,
+        "date": "2023-01-25",
+        "amount": 120.0
+     },
+     {
+        "transaction_id": 14,
+        "customer_id": 4,
+        "date": "2023-01-05",
+        "amount": 175.0
+     },
+     {
+        "transaction_id": 15,
+        "customer_id": 4,
+        "date": "2023-01-30",
+        "amount": 90.0
+     }
+  ]
+}
